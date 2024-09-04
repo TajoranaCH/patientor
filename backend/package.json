@@ -25,9 +25,9 @@
     "typescript-eslint": "^8.3.0"
   },
   "dependencies": {
-    "backend": "^0.0.0",
     "cors": "^2.8.5",
     "express": "^4.19.2",
-    "uuid": "^10.0.0"
+    "uuid": "^10.0.0",
+    "zod": "^3.23.8"
   }
 }
